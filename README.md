@@ -16,6 +16,8 @@ Optionally, you can use Figma to quickly derive various sizes and colours. No mo
 
 The Figma project link is here: https://www.figma.com/file/ecS0s64TeWE2KDmLrCfFJ8/HTML-CSS-Extra
 
+(I believe you will need to sign up for an account if you'd like to use Figma. Otherwise, you can use the mockup image)
+
 # Notes
 
 - You'll want to use the "Lato" font from Google Fonts.
